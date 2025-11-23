@@ -1,2 +1,4 @@
 # python_dataframe_pandas
-Aprendendo a manipular dados com Pandas
+Manipulação de dados com Pandas
+Filtragem de elementos
+Métodos LOC e ILOC
